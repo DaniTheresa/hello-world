@@ -1,2 +1,3 @@
 # hello-world
-Just a repository
+Just a repository.
+Trying out branching and merging in GitHub.
